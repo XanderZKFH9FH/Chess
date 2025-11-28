@@ -1,0 +1,14 @@
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\bin\Debug\net8.0\Chess.exe
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\bin\Debug\net8.0\Chess.deps.json
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\bin\Debug\net8.0\Chess.runtimeconfig.json
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\bin\Debug\net8.0\Chess.dll
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\bin\Debug\net8.0\Chess.pdb
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.AssemblyInfoInputs.cache
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.AssemblyInfo.cs
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.dll
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\refint\Chess.dll
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.pdb
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\Chess.genruntimeconfig.cache
+C:\Users\guldemont_xander\OneDrive - Sint-Maarteninstituut Aalst - VORA vzw\Aplicatie en Databeheer\Software\C++\Chess\obj\Debug\net8.0\ref\Chess.dll
